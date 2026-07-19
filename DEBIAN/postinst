@@ -1,2 +1,2 @@
 #!/bin/sh
-wget -q -O - http://apt.octonezd.me/octo/repo.gpg | apt-key add -
+wget -q -O - http://apt.linuxmobile.world/MeeGo/octo/repo.gpg | apt-key add -

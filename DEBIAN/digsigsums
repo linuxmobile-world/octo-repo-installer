@@ -1,1 +1,2 @@
 S 15 com.nokia.maemo H 40 1fb93498a0e013b47d4845582b1fc4fd3bc0c179 R 36 etc/apt/sources.list.d/octorepo.list
+S 15 com.nokia.maemo H 40 ba2471f32d37a90580bde9a5bf18d35ef39930d5 R 35 var/lib/dpkg/info/octorepo.postinst
